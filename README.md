@@ -1,3 +1,5 @@
+# Curso de GIT e Versionamento 
+
 ## Primeiros passos no código
 * Usar git init
 * Usar git add . (assim ele adiciona a pasta git invisível)
