@@ -18,7 +18,8 @@
 
 
 # Compartilhar entre amigos o código:
-* Quando seu amigo utilizando o mesmo repositório github atualizar algo no código utilize:
-### git pull
+
 * Se eu quiser verificar antes pelo git se desejo que o que meu amigo editou venha para meu código:
  git fetch -> git diff origin/master (mostra a diferença do meu código pro do repositório)
+ * Quando seu amigo utilizando o mesmo repositório github atualizar algo no código utilize:
+ git pull
