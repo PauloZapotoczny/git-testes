@@ -11,5 +11,10 @@
 * Usar git add (nome do arquivo)
 * Usar git commit -m "Sua mensagem"
 
+### Enviando para o repositório remoto (GitHub)
+* Usando git remote vemos tudo o que temos em relação aos remotos 
+* git push origin main 
+
+
 
 * Compartilhar entre amigos o código:
