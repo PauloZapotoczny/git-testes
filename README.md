@@ -5,3 +5,5 @@
 ## Testando
 
 ## Salvando alterações apenas
+
+* Compartilhar entre amigos o código:
