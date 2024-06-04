@@ -1,9 +1,15 @@
-### Primeiro usamos o Git init 
+## Primeiros passos no código
+* Usar git init
+* Usar git add . (assim ele adiciona a pasta git invisível)
 
-### Depois o Git add .
+## Como conectar ao meu repositório remoto
+* Usar git remote add origin (link)
 
-## Testando
 
-## Salvando alterações apenas
+## Salvando alterações
+* O CNTRL - S primeiro
+* Usar git add (nome do arquivo)
+* Usar git commit -m "Sua mensagem"
+
 
 * Compartilhar entre amigos o código:
