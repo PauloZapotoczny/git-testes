@@ -17,4 +17,6 @@
 
 
 
-* Compartilhar entre amigos o código:
+# Compartilhar entre amigos o código:
+* Quando seu amigo utilizando o mesmo repositório github atualizar algo no código utilize:
+### git pull
